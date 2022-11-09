@@ -1,5 +1,5 @@
 def percent(bill:float, n:int):
-      """this function returns the n percent os bill"""
+      """this function returns the n percent of bill"""
       return bill * n / 100
   
 bill = float(input("insert the amount of your bill: "))
